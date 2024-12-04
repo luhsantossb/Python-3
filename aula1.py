@@ -1,0 +1,5 @@
+print('ola,mundo')
+print('Bem vindo ao mundo da luluh')
+print('eu sou a dona disso tudo aqui!!')
+print('hoje é meu penultimo dia aqui')
+print('ainda bem !')
